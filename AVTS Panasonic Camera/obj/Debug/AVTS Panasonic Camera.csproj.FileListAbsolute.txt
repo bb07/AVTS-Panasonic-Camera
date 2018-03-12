@@ -1,0 +1,7 @@
+C:\Users\AVTS-23\Desktop\AVTS Panasonic Camera\AVTS Panasonic Camera\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\AVTS-23\Desktop\AVTS Panasonic Camera\AVTS Panasonic Camera\bin\Debug\AVTS Panasonic Camera.dll
+C:\Users\AVTS-23\Desktop\AVTS Panasonic Camera\AVTS Panasonic Camera\bin\Debug\AVTS Panasonic Camera.pdb
+C:\Users\AVTS-23\Desktop\AVTS Panasonic Camera\AVTS Panasonic Camera\bin\Debug\SimplSharpCustomAttributesInterface.dll
+C:\Users\AVTS-23\Desktop\AVTS Panasonic Camera\AVTS Panasonic Camera\bin\Debug\SimplSharpHelperInterface.dll
+C:\Users\AVTS-23\Desktop\AVTS Panasonic Camera\AVTS Panasonic Camera\obj\Debug\AVTS Panasonic Camera.dll
+C:\Users\AVTS-23\Desktop\AVTS Panasonic Camera\AVTS Panasonic Camera\obj\Debug\AVTS Panasonic Camera.pdb
